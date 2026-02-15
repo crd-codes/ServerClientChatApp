@@ -1,5 +1,5 @@
-# ServerClientChat App GUI
----
+# Server-Client Chat Application (Java Swing)
+
 ## 📌 Project Overview
 
 Java Swing Socket Chat is a simple messaging system that allows a client and server to exchange messages through a graphical interface.  
@@ -70,32 +70,29 @@ This project demonstrates:
 
 ## ⚙️ How to Run
 ```bash
-Step 1: Compile
-
+# Step 1: Compile
 javac ServerUpdate1.java
 javac ClientUpdate1.java
 
-Step 2: Run Server
-
+# Step 2: Run Server
 java ServerUpdate1
 
-Step 3: Run Client (in another terminal)
-
+# Step 3: Run Client (in another terminal)
 java ClientUpdate1
 ```
-# 🖥️ Usage
+## 🖥️ Usage
 
-Start the Server first.
-Then start the Client.
-Type a message and press Enter or click SEND.
-To end the chat, type:
-end
+- Start the **Server** first.
+- Then start the **Client**.
+- Type a message and press **Enter** or click **SEND**.
+- To end the chat, type: end
 
-Both server and client will close the connection.
+- Both server and client will close the connection.
 
-# Future Improvements
+## 🔮 Future Improvements
 
-Multiple client support
-Chat timestamps
-
+- Multiple client support
+- Chat timestamps
+- Usernames for participants
+- File sharing feature
 
