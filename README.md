@@ -68,16 +68,26 @@ This project demonstrates:
 - Multithreading
 ---
 
+## 📂 Project Structure
+```
+ServerClientChatApp/
+│
+├── Src/
+│   ├── ServerGUI.java
+│   └── ClientGUI.java
+└── README.md
+```
+
 ## ⚙️ How to Run
 ```bash
-# Step 1: Compile
+Step 1: Compile
 javac ServerGUI.java
 javac ClientGUI.java
 
-# Step 2: Run Server
+Step 2: Run Server
 java ServerGUI
 
-# Step 3: Run Client (in another terminal)
+Step 3: Run Client (in another terminal)
 java ClientGUI
 ```
 ## 🖥️ Usage
@@ -98,9 +108,10 @@ java ClientGUI
 
 ## 👨‍💻 Author
 
-**CR Dugade**
+CR Dugade
 Aspiring Software Developer
 
 * GitHub: https://github.com/crd-codes
 * LinkedIn: https://linkedin.com/in/chakradhar-dugade
+* Email : crofficialuse@gmail.com 
 
