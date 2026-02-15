@@ -96,3 +96,11 @@ java ClientUpdate1
 - Usernames for participants
 - File sharing feature
 
+## 👨‍💻 Author
+
+**CR Dugade**
+Aspiring Software Developer
+
+* GitHub: https://github.com/your-username
+* LinkedIn: https://linkedin.com/in/your-profile
+
