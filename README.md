@@ -71,14 +71,14 @@ This project demonstrates:
 ## ⚙️ How to Run
 ```bash
 # Step 1: Compile
-javac ServerUpdate1.java
-javac ClientUpdate1.java
+javac ServerGUI.java
+javac ClientGUI.java
 
 # Step 2: Run Server
-java ServerUpdate1
+java ServerGUI
 
 # Step 3: Run Client (in another terminal)
-java ClientUpdate1
+java ClientGUI
 ```
 ## 🖥️ Usage
 
