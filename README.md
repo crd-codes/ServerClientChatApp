@@ -13,6 +13,13 @@ This project demonstrates:
 - Event handling
 
 ---
+## 🖥️ Technologies
+
+- Java
+- Swing (GUI)
+- Socket Programming
+- Multithreading
+---
 
 ## 🚀 Features
 
@@ -58,14 +65,6 @@ This project demonstrates:
 - Swing Components (`JFrame`, `JTextArea`, `JTextField`, `JButton`, `JScrollPane`)
 - Stream Handling (`BufferedReader`, `PrintStream`)
 
----
-
-## 🖥️ Technologies
-
-- Java
-- Swing (GUI)
-- Socket Programming
-- Multithreading
 ---
 
 ## 📂 Project Structure
